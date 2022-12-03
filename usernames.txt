@@ -1,0 +1,13 @@
+root
+admin
+test
+guest
+info
+adm
+user
+administrator
+sys
+ftp
+dummy
+superadmin
+
