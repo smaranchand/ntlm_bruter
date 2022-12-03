@@ -1,1 +1,2 @@
 urllib3==1.26.13
+requests_ntlm2==6.5.2
